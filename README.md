@@ -34,6 +34,10 @@ Sustrans 12: https://thingspeak.mathworks.com/channels/2606044
 
 Sustrans 10 - Weather Station: https://thingspeak.mathworks.com/channels/2945913
 
+**Device Health Dashboards:**
+
+https://notehub.io/project/app:7ee79fa2-71c1-4c6d-bb7c-f2ecd99a6376/devices
+
 Sustrans 11 - Weather Station: https://thingspeak.mathworks.com/channels/2945914
 
 Sustrans 12 - Weather Station: https://thingspeak.mathworks.com/channels/2945915
