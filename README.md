@@ -42,4 +42,26 @@ Sustrans 12 - Weather Station: https://thingspeak.mathworks.com/channels/2945915
 
 **Device Health Dashboards:**
 
-https://notehub.io/project/app:7ee79fa2-71c1-4c6d-bb7c-f2ecd99a6376/devices
+Sustrans 1: https://notehub.io/project/app:7ee79fa2-71c1-4c6d-bb7c-f2ecd99a6376/devices
+
+Sustrans 2: https://notehub.io/project/app:8b7caa3c-53ab-4f4c-9cfd-8e915a8eb6c7/devices
+
+Sustrans 3: https://notehub.io/project/app:3aaf790e-56ec-4285-ab7f-f440c1299de1/devices
+
+Sustrans 4: https://notehub.io/project/app:555aa929-c07e-4b66-bd92-bda17ffc4d0d/devices
+
+Sustrans 5: https://notehub.io/project/app:b35edc04-2ff1-41e4-8eb8-796e42e225b9/devices
+
+Sustrans 6: 
+
+Sustrans 7: 
+
+Sustrans 8: 
+
+Sustrans 9: 
+
+Sustrans 10: 
+
+Sustrans 11: 
+
+Sustrans 12: 
